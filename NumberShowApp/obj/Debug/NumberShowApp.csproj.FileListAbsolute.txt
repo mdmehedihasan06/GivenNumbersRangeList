@@ -1,0 +1,8 @@
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\bin\Debug\NumberShowApp.exe.config
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\bin\Debug\NumberShowApp.exe
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\bin\Debug\NumberShowApp.pdb
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\obj\Debug\NumberShowApp.Form1.resources
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\obj\Debug\NumberShowApp.Properties.Resources.resources
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\obj\Debug\NumberShowApp.csproj.GenerateResource.Cache
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\obj\Debug\NumberShowApp.exe
+I:\FTFL Documents All\BCC Training Files\Md. Mehedi Hasan Document\Day 4\NumberShowApp\NumberShowApp\obj\Debug\NumberShowApp.pdb
